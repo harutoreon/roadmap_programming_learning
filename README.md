@@ -1,11 +1,15 @@
 # プログラミング学習のロードマップ
 
-- Git・GitHubの基礎（完了）
+- Gitの基礎（完了）
+- GitHubの基礎（完了）
 - Linuxの基礎（完了）
 - SQLの基礎（完了）
+- MySQLの基礎（完了）
 - Dockerの基礎（完了）
 - ESLintの基礎（完了）
-- JavaScriptの基礎（着手中）
+- Mochaの基礎（完了）
+- JavaScriptの基礎（完了）
+- DOMの基礎（着手中）
 - CircleCIの基礎
 - Rubyの基礎
 - RSpecの基礎
