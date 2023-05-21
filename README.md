@@ -9,8 +9,8 @@
 - ESLintの基礎（完了）
 - Mochaの基礎（完了）
 - JavaScriptの基礎（完了）
-- DOMの基礎（着手中）
-- CircleCIの基礎
+- DOMの基礎（完了）
+- CircleCIの基礎（着手中）
 - Rubyの基礎
 - RSpecの基礎
 - RuboCopの基礎
