@@ -10,8 +10,8 @@
 - Mochaの基礎（完了）
 - JavaScriptの基礎（完了）
 - DOMの基礎（完了）
-- CircleCIの基礎（着手中）
-- Rubyの基礎
+- CircleCIの基礎（完了）
+- Rubyの基礎（着手中）
 - RSpecの基礎
 - RuboCopの基礎
 - Railsの基礎
