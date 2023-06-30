@@ -12,6 +12,7 @@
 - DOMの基礎（完了）
 - CircleCIの基礎（完了）
 - Rubyの基礎（着手中）
+- Minitestの基礎（完了）
 - RSpecの基礎
 - RuboCopの基礎
 - Railsの基礎
