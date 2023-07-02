@@ -11,9 +11,9 @@
 - JavaScriptの基礎（完了）
 - DOMの基礎（完了）
 - CircleCIの基礎（完了）
-- Rubyの基礎（着手中）
+- Rubyの基礎（完了）
 - Minitestの基礎（完了）
-- RSpecの基礎
+- RSpecの基礎（着手中）
 - RuboCopの基礎
 - Railsの基礎
 - Veu.jsの基礎
