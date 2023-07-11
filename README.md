@@ -13,8 +13,8 @@
 - CircleCIの基礎（完了）
 - Rubyの基礎（完了）
 - Minitestの基礎（完了）
-- RSpecの基礎（着手中）
-- RuboCopの基礎
+- RSpecの基礎（完了）
+- RuboCopの基礎（着手中）
 - Railsの基礎
 - Veu.jsの基礎
 - AWSの基礎
