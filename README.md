@@ -15,6 +15,7 @@
 - Minitestの基礎（完了）
 - RSpecの基礎（完了）
 - RuboCopの基礎（完了）
-- Railsの基礎（着手中）
+- Railsの基礎（完了）
+- FactoryBotの基礎（着手中）
 - Veu.jsの基礎
 - AWSの基礎
