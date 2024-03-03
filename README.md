@@ -18,5 +18,7 @@
 - Railsの基礎（完了）
 - FactoryBotの基礎（完了）
 - Bootstrapの基礎（完了）
+- brakemanの基礎
 - Veu.jsの基礎
 - AWSの基礎
+- Vagrantの基礎
