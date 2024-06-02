@@ -19,6 +19,7 @@
 - FactoryBotの基礎（完了）
 - Bootstrapの基礎（完了）
 - Seleniumの基礎（完了）
+- bullet（完了）
 - brakemanの基礎
 - Veu.jsの基礎
 - AWSの基礎
