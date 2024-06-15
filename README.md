@@ -20,7 +20,8 @@
 - Bootstrapの基礎（完了）
 - Seleniumの基礎（完了）
 - bullet（完了）
-- brakemanの基礎
+- brakemanの基礎（完了）
+- SimpleCovの基礎（完了）
 - Veu.jsの基礎
 - AWSの基礎
 - Vagrantの基礎
